@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="basebin" width="100%">
+  <img src="https://raw.githubusercontent.com/basebin/.github/main/profile/banner.jpg" alt="basebin" width="100%">
 </div>
 
 <br>
