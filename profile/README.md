@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/basebin/.github/main/profile/banner.jpg" alt="basebin" width="100%">
   
-  <h1>basebin 🦌 — primitives for builders</h1>
+  <h1>basebin 🦌 | primitives for builders</h1>
   <p><strong><em>History is boring. Shipping is not.</em></strong></p>
-  <p>Small, sharp, open-source building blocks — from GPU kernels to ML APIs. No nostalgia, just stuff you can fork and ship today.</p>
+  <p>Small, sharp, open-source building blocks: from GPU kernels to ML APIs. No nostalgia, just stuff you can fork and ship today.</p>
   
   <p>
     <a href="https://github.com/orgs/basebin/repositories"><img src="https://img.shields.io/badge/103-repos-0A84FF?style=flat-square" alt="repos"></a>
@@ -25,7 +25,7 @@
 
 **basebin** isn't a museum. It's a workbench.
 
-We publish the unglamorous primitives that make AI products real — GPU kernels, inference runtimes, API clients, SDKs, and the CLI/build glue in between. Each repo is small enough to read in one sitting, practical enough to reuse tomorrow.
+We publish the unglamorous primitives that make AI products real: GPU kernels, inference runtimes, API clients, SDKs, and the CLI/build glue in between. Each repo is small enough to read in one sitting, practical enough to reuse tomorrow.
 
 > Study it. Fork it. Steal the good parts. Ship faster.
 
@@ -42,11 +42,11 @@ We publish the unglamorous primitives that make AI products real — GPU kernels
 
 | Repository | One-liner | Stack |
 | :--- | :--- | :--- |
-| [**kernels**](https://github.com/basebin/kernels) | Swift GPU kernels — fast, readable, hackable | `Swift` `Metal` |
+| [**kernels**](https://github.com/basebin/kernels) | Swift GPU kernels: fast, readable, hackable | `Swift` `Metal` |
 | [**bitinfer**](https://github.com/basebin/bitinfer) | C++ inference framework, minimal dependencies | `C++` |
 | [**thread**](https://github.com/basebin/thread) | Tiled image pipeline (tile → upscale → stitch) + Flask API | `C++` `Python` |
 | [**ml**](https://github.com/basebin/ml) | Machine learning framework in C++ | `C++` |
-| [**mlapi**](https://github.com/basebin/mlapi) | Python ML API — clean, typed, extensible | `Python` |
+| [**mlapi**](https://github.com/basebin/mlapi) | Python ML API: clean, typed, extensible | `Python` |
 | [**mlxlm**](https://github.com/basebin/mlxlm) | M1/Apple Silicon inference tests & notes | `Python` |
 | [**xaisdk**](https://github.com/basebin/xaisdk) | SDK + client libraries for xAI & friends | `Python/TS` |
 | [**buildanywhere**](https://github.com/basebin/buildanywhere) | Cross-platform build tooling that just works | `Shell` |
@@ -58,7 +58,7 @@ We publish the unglamorous primitives that make AI products real — GPU kernels
 ### 🚀 Quick start
 
 ```bash
-# pick a primitive — e.g. the tiled inference pipeline
+# pick a primitive, e.g. the tiled inference pipeline
 git clone https://github.com/basebin/thread.git && cd thread
 # or the Python ML API
 git clone https://github.com/basebin/mlapi.git && cd mlapi && pip install -e .
@@ -69,7 +69,7 @@ gh repo list basebin --limit 103 --json name,primaryLanguage,description --jq '.
 
 ### 🧪 Pick your stack
 
-`Python` 27 • `TypeScript` 11 • `Shell` 9 • `C++` 7 • `JavaScript` 7 • `Swift` 7 • `C` 4 • `Dart` 3 • `Rust` 3 — and Haskell, Lean, Elixir, Ruby, Java for the curious.
+`Python` 27 • `TypeScript` 11 • `Shell` 9 • `C++` 7 • `JavaScript` 7 • `Swift` 7 • `C` 4 • `Dart` 3 • `Rust` 3 and Haskell, Lean, Elixir, Ruby, Java for the curious.
 
 Every repo is designed to be **read in <30 min, fork in <5 min, adapt in <1 day**.
 
@@ -77,9 +77,9 @@ Every repo is designed to be **read in <30 min, fork in <5 min, adapt in <1 day*
 
 No roadmap theatre. Just open repos, open issues, open PRs.
 
-- **Fork & experiment** — everything is MIT/Apache-2.0/BSD where possible
-- **Open an issue** — request a primitive, report a papercut
-- **Ship a PR** — small, focused PRs get merged fast
+- **Fork & experiment** - everything is MIT/Apache-2.0/BSD where possible
+- **Open an issue** - request a primitive, report a papercut
+- **Ship a PR** - small, focused PRs get merged fast
 
 ---
 
