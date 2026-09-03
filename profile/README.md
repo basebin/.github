@@ -13,12 +13,6 @@
   <p>
     <a href="https://github.com/orgs/basebin/repositories"><strong>See all repos</strong></a>
   </p>
-
-  <p>
-    <img src="https://raw.githubusercontent.com/basebin/.github/main/profile/marks/coccinella-labs.svg" alt="coccinella-labs" height="24">
-    <img src="https://raw.githubusercontent.com/basebin/.github/main/profile/marks/harpertoken.svg" alt="harpertoken" height="24">
-    <img src="https://raw.githubusercontent.com/basebin/.github/main/profile/marks/libnudget.svg" alt="libnudget" height="24">
-  </p>
 </div>
 
 ---
