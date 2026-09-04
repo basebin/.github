@@ -8,7 +8,7 @@ Important repositories for compute and inference
 - [ml](https://github.com/basebin/ml) - Machine learning framework.
 - [mlapi](https://github.com/basebin/mlapi) - Machine learning API.
 - [mlxlm](https://github.com/basebin/mlxlm) - M1 inference tests.
-- [thread](https://github.com/basebin/thread) - Thread: tiled image pipeline (tile, upscale, stitch) with local Flask API. CPU first, optional Metal/CUDA.
+- [thread](https://github.com/basebin/thread) - Tiled image pipeline.
 - [benchmark](https://github.com/basebin/benchmark) - Speech benchmark.
 - [vesper](https://github.com/basebin/vesper) - Gemini client.
 
